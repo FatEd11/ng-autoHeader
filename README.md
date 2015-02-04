@@ -13,7 +13,7 @@ No dependencies (other than Angular naturally :) )
 Install with bower with
 
 ```bash
-bower install --save ng-autoHeader
+bower install --save ng-autoheader
 ```
 
 Include as a dependency to your angular app
