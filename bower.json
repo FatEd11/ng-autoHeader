@@ -1,7 +1,7 @@
 {
   "name": "ng-autoHeader",
   "version": "1.0",
-  "homepage": "",
+  "homepage": "https://github.com/FatEd11/ng-autoHeader",
   "authors": "Edward Russell <elr11789@gmail.com>",
   "description": "Simple directive to add auto hide features to a fixed nav bar",
   "main": "ng-autoHeader.js",
